@@ -6,10 +6,10 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
-"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"Report-Msgid-Bugs-To: muluante@outlook.com\n"
 "POT-Creation-Date: 2023-10-31 13:52+0000\n"
 "PO-Revision-Date: 2023-10-31 13:52+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: Anteneh Mulusew <muluante@outlook.com>\n"
 "Language: en\n"
 "Language-Team: en <LL@li.org>\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
@@ -21,21 +21,24 @@ msgstr ""
 #: templates/3-index.html:7 templates/4-index.html:7 templates/5-index.html:7
 #: templates/6-index.html:7 templates/7-index.html:7
 msgid "home_title"
-msgstr ""
+msgstr "Welcome to Holberton"
 
 #: templates/3-index.html:10 templates/4-index.html:10
 #: templates/5-index.html:10 templates/6-index.html:10
 #: templates/7-index.html:10
 msgid "home_header"
-msgstr ""
+msgstr "Hello world"
 
 #: templates/5-index.html:12 templates/6-index.html:12
 #: templates/7-index.html:12
 msgid "logged_in_as"
-msgstr ""
+msgstr "you are logged in as %(username)s."
 
 #: templates/5-index.html:14 templates/6-index.html:14
 #: templates/7-index.html:14
 msgid "not_logged_in"
-msgstr ""
+msgstr "you are not logged in"
+
+msgid "current_time_is"
+msgstr "The current time is %(current_time)s."
 
